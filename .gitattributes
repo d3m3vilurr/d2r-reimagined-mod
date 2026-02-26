@@ -1,2 +1,4 @@
 *.sprite filter=lfs diff=lfs merge=lfs -text
+*.json text=auto eol=crlf
+*.txt text=auto eol=crlf
 scripts/copy-files.sh text eol=lf
