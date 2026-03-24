@@ -1235,11 +1235,11 @@ Mephisto Item (N)			7					5	Act 4 (N) Good	4	Act 4 (N) Equip A	30	Gold 1.5x	10		
 Mephisto Item (N) Desecrated A	22	59	7					5	Act 4 (N) Good	4	Act 4 (N) Equip B	30	Gold 1.5x	10																								0
 Mephisto Item (N) Desecrated B	22	66	7					5	Act 4 (N) Good	4	Act 4 (N) Equip C	30	Gold 1.5x	10																								0
 Mephisto Item (N) Desecrated C	22	73	7					5	Act 5 (H) Good	4	Act 5 (H) Equip A	30	Gold 1.5x	10																								0
-Mephisto Item (H)			7					5	Act 4 (H) Good	4	Act 4 (H) Equip A	30	Gold 2x	10																								0
-Mephisto Item (H) Desecrated A			7					5	Act 4 (H) Good	4	Act 4 (H) Equip B	30	Gold 2x	10	Ancient Statue 3	3																						0
-Mephisto Item (H) Desecrated B			7					5	Act 5 (H) Good	4	Act 5 (H) Equip A	30	Gold 2x	10	Ancient Statue 3	3																						0
-Mephisto Item (H) Desecrated C			7					5	Act 5 (H) Good	4	Act 5 (H) Equip B	30	Gold 2x	10	Ancient Statue 3	3																						0
-Mephisto Item (H) Desecrated D			7					5	Act 5 (H) Good	4	Act 5 (H) Equip C	30	Gold 2x	10	Ancient Statue 3	3																						0
+Mephisto Item (H)			7					5	Act 4 (H) Good	4	Act 4 (H) Equip A	30	Gold 2x	10	mbr	4																						0
+Mephisto Item (H) Desecrated A			7					5	Act 4 (H) Good	4	Act 4 (H) Equip B	30	Gold 2x	10	Ancient Statue 3	3	mbr	3																				0
+Mephisto Item (H) Desecrated B			7					5	Act 5 (H) Good	4	Act 5 (H) Equip A	30	Gold 2x	10	Ancient Statue 3	3	mbr	3																				0
+Mephisto Item (H) Desecrated C			7					5	Act 5 (H) Good	4	Act 5 (H) Equip B	30	Gold 2x	10	Ancient Statue 3	3	mbr	3																				0
+Mephisto Item (H) Desecrated D			7					5	Act 5 (H) Good	4	Act 5 (H) Equip C	30	Gold 2x	10	Ancient Statue 3	3	mbr	3																				0
 Mephisto			-1	983	983	983	1024	0	Mephisto Item	1																												0
 Mephisto Desecrated A	22	26	-2	983	983	983	1024	0	Norm TZ Generic	1	Mephisto Item Desecrated A	1																										0
 Mephisto Desecrated B	22	38	-2	983	983	983	1024	0	Norm TZ Generic	1	Mephisto Item Desecrated B	1																										0
@@ -1322,9 +1322,9 @@ Diablo Item (N)			7					5	Act 5 (N) Good	4	Act 5 (N) Equip A	30	Gold 2x	10						
 Diablo Item (N) Desecrated A	23	62	7					5	Act 5 (N) Good	4	Act 5 (N) Equip A	30	Gold 1.5x	10																								0
 Diablo Item (N) Desecrated B	23	67	7					5	Act 1 (H) Good	4	Act 1 (H) Equip A	30	Gold 1.5x	10																								0
 Diablo Item (N) Desecrated C	23	73	7					5	Act 3 (H) Good	4	Act 3 (H) Equip A	30	Gold 1.5x	10																								0
-Diablo Item (H)			7					5	Act 5 (H) Good	4	Act 5 (H) Equip A	30	Gold 2.5x	10																								0
-Diablo Item (H) Desecrated A			7					5	Act 5 (H) Good	4	Act 5 (H) Equip B	30	Gold 2x	10	Ancient Statue 4	3																						0
-Diablo Item (H) Desecrated B			7					5	Act 5 (H) Good	4	Act 5 (H) Equip C	30	Gold 2x	10	Ancient Statue 4	3																						0
+Diablo Item (H)			7					5	Act 5 (H) Good	4	Act 5 (H) Equip A	30	Gold 2.5x	10	dhn	4																						0
+Diablo Item (H) Desecrated A			7					5	Act 5 (H) Good	4	Act 5 (H) Equip B	30	Gold 2x	10	Ancient Statue 4	3	dhn	3																				0
+Diablo Item (H) Desecrated B			7					5	Act 5 (H) Good	4	Act 5 (H) Equip C	30	Gold 2x	10	Ancient Statue 4	3	dhn	3																				0
 Diablo			-1	983	983	983	1024	0	Diablo Item	1																												0
 Diablo Desecrated A	23	40	-2	983	983	983	1024	0	Norm TZ Generic	1	Diablo Item Desecrated A	1																										0
 Diablo Desecrated B	23	48	-2	983	983	983	1024	0	Norm TZ Generic	1	Diablo Item Desecrated B	1																										0
@@ -1387,8 +1387,8 @@ Baal Item			7					5	Act 1 (N) Good	8	Act 1 (N) Equip A	30	Gold 2x	10												
 Baal Item Desecrated			7					5	Act 3 (N) Good	8	Act 3 (N) Equip A	30	Gold 1.5x	10																								0
 Baal Item (N)			7					5	Act 1 (H) Good	8	Act 1 (H) Equip A	30	Gold 2x	10																								0
 Baal Item (N) Desecrated			7					5	Act 3 (H) Good	8	Act 3 (H) Equip A	30	Gold 1.5x	10																								0
-Baal Item (H)			7					5	Act 5 (H) Good	8	Act 5 (H) Equip B	30	Gold 2.5x	10																								0
-Baal Item (H) Desecrated			7					5	Act 5 (H) Good	8	Act 5 (H) Equip C	30	Gold 2x	10	Ancient Statue 5	3																						0
+Baal Item (H)			7					5	Act 5 (H) Good	8	Act 5 (H) Equip B	30	Gold 2.5x	10	bey	8																						0
+Baal Item (H) Desecrated			7					5	Act 5 (H) Good	8	Act 5 (H) Equip C	30	Gold 2x	10	Ancient Statue 5	3	bey	3																				0
 Baal			-1	983	983	983	1024	0	Baal Item	1																												0
 Baal Desecrated	29	60	-2	983	983	983	1024	0	Norm TZ Generic	1	Baal Item Desecrated	1																										0
 Baal (N)			-2	983	983	983	1024	0	NMH Boss	1	Baal Item (N)	1																										0
