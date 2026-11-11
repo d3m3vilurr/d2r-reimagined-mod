@@ -204,7 +204,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "El (1)",
+                                            "text": "@r01L (1)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 100, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -262,7 +262,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Eld (2)",
+                                            "text": "@r02L (2)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -320,7 +320,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Tir (3)",
+                                            "text": "@r03L (3)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -378,7 +378,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Nef (4)",
+                                            "text": "@r04L (4)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -436,7 +436,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Eth (5)",
+                                            "text": "@r05L (5)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -494,7 +494,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Ith (6)",
+                                            "text": "@r06L (6)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -552,7 +552,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Tal (7)",
+                                            "text": "@r07L (7)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -610,7 +610,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Ral (8)",
+                                            "text": "@r08L (8)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -668,7 +668,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Ort (9)",
+                                            "text": "@r09L (9)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -726,7 +726,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Thul (10)",
+                                            "text": "@r10L (10)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -784,7 +784,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Amn (11)",
+                                            "text": "@r11L (11)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -842,7 +842,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Sol (12)",
+                                            "text": "@r12L (12)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -900,7 +900,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Shael (13)",
+                                            "text": "@r13L (13)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -958,7 +958,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Dol (14)",
+                                            "text": "@r14L (14)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -1016,7 +1016,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Hel (15)",
+                                            "text": "@r15L (15)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -1074,7 +1074,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Io (16)",
+                                            "text": "@r16L (16)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -1132,7 +1132,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Lum (17)",
+                                            "text": "@r17L (17)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -1190,7 +1190,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Ko (18)",
+                                            "text": "@r18L (18)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -1248,7 +1248,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Fal (19)",
+                                            "text": "@r19L (19)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -1306,7 +1306,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Lem (20)",
+                                            "text": "@r20L (20)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -1364,7 +1364,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Pul (21)",
+                                            "text": "@r21L (21)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -1422,7 +1422,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Um (22)",
+                                            "text": "@r22L (22)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -1480,7 +1480,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Mal (23)",
+                                            "text": "@r23L (23)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -1538,7 +1538,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Ist (24)",
+                                            "text": "@r24L (24)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -1596,7 +1596,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Gul (25)",
+                                            "text": "@r25L (25)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -1654,7 +1654,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Vex (26)",
+                                            "text": "@r26L (26)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -1712,7 +1712,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Ohm (27)",
+                                            "text": "@r27L (27)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -1770,7 +1770,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Lo (28)",
+                                            "text": "@r28L (28)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -1828,7 +1828,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Sur (29)",
+                                            "text": "@r29L (29)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -1886,7 +1886,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Ber (30)",
+                                            "text": "@r30L (30)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -1944,7 +1944,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Jah (31)",
+                                            "text": "@r31L (31)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -2002,7 +2002,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Cham (32)",
+                                            "text": "@r32L (32)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
@@ -2060,7 +2060,7 @@
                                     {
                                         "type": "TextBoxWidget", "name": "Rune Name",
                                         "fields": {
-                                            "text": "Zod (33)",
+                                            "text": "@r33L (33)",
                                             "style": "$StyleSettingsText",
                                             "rect": {"width" : 120, "height": 100, "x":0,  "y": 50 }
                                         }
